@@ -48,11 +48,10 @@ Every new transaction goes on **the top of the list** and should have an enclosi
 
 ## Additional requirements
 
-1. Do your best to make the [provided E2E tests](cypress/e2e/test.cy.js) pass.
-2. Keep the server data in memory.
-3. Implement client-side validation of the form data.
-4. Unit test one module of choice. There is no need to test the whole app, as we only want to understand what you consider when writing unit tests.
-5. Avoid duplication and extract reusable modules where it makes sense. We want to see your approach to creating a codebase that is easy to maintain.
+1. Keep the server data in memory.
+2. Implement client-side validation of the form data.
+3. Unit test one module of choice. There is no need to test the whole app, as we only want to understand what you consider when writing unit tests.
+4. Avoid duplication and extract reusable modules where it makes sense. We want to see your approach to creating a codebase that is easy to maintain.
 
 ## Getting started
 
